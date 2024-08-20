@@ -8,3 +8,6 @@
 ## Projects for Term 1
 
 ## Projects for Term 2
+
+
+![title](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png?raw=True) 
