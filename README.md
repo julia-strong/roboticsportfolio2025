@@ -5,6 +5,12 @@
 * certified in Programming and Python.
 * Typing at 53 wpm.
 
+## Julia | Primarily Electrical Engineer | Programmer if needed
+* Manages wiring, sensors, and power distribution, and electrical components.
+* Ensures that the electrical components work correctly with the mechanical parts. 
+* Troubleshoots electrical issues during testing.
+* Can be familiarized with the code to help debug if needed.
+
 ## Projects for Term 1
 
 ## Projects for Term 2
